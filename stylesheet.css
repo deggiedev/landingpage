@@ -1,0 +1,53 @@
+h1 {
+    position: absolute;
+    color: white;
+    font-family: 'Exo', sans-serif;
+    right: 5%;
+    left: 5%;
+    top: 3%;
+}
+p {
+    position: absolute;
+    top: 58%;
+    left: 5%;
+    right: 5%;
+    color: white;
+    font-size: 16px;
+    font-family: 'Exo', sans-serif;
+}
+/* NOT USING h2 RIGHT NOW
+    h2 {
+    position: absolute;
+    bottom: 3%;
+    left: 5%;
+    right: 5%;
+    color: white;
+    font-size: 16px;
+    font-family: 'Exo', sans-serif;
+    }*/
+.btn-outline-primary {
+    position: absolute;
+    top: 45%;
+    left: 5%;
+    color: white;
+    border-color: white;
+    font-family: 'Exo', sans-serif;
+}
+
+.btn-outline-primary:hover {
+    background-color: black;
+    border-color: white;
+}
+.btn-outline-primary:active {
+    color: black;
+    border-color:white;
+}
+
+.button {
+    position: absolute;
+    top: 45%;
+    left: 5%;
+    color: white;
+    border-color: white;
+    font-family: 'Exo', sans-serif;
+}
